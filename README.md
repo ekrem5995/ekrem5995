@@ -9,21 +9,6 @@ I'm a freelance Python automation developer focused on solving real-world proble
 
 ---
 
-### 🧰 Recent Project: [📦 Price Notifier Bot](https://github.com/ekrem5995/price-notifier-bot)
-
-A Python bot that scrapes product prices and sends real-time email alerts.
-
-**Built with:**  
-`requests`, `BeautifulSoup`, `.env`, Gmail SMTP  
-
-**Demo site:** Scrapes from [BooksToScrape](http://books.toscrape.com)  
-**Features:**  
-- Modular structure  
-- Clean and secure automation  
-- Real-time email notifications  
-
----
-
 ### 🛠️ Tech Stack
 
 - Python, Selenium, Playwright  
