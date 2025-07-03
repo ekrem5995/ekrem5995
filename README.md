@@ -1,30 +1,43 @@
-👋 Hi, I'm Ekrem
-I'm a freelance Python automation developer focused on real-world tools like:
+# 👋 Hi, I'm Ekrem
 
-🔧 Web scraping bots
-📨 Email, Telegram, Discord notifications
-📊 Google Sheets + API integrations
-🧠 AI & GPT-powered automations (Zapier, Make, OpenAI)
-💼 Recent Project
-📦 Price Notifier Bot
+I'm a freelance Python automation developer focused on solving real-world problems with:
 
-A Python script that scrapes product prices and sends real-time email alerts.
+- 🕷️ Web scraping bots  
+- ✉️ Email, Telegram & Discord alerts  
+- 📊 Google Sheets + API integrations  
+- 🧠 GPT-powered automations (Zapier, Make, OpenAI)
 
-Built with requests, BeautifulSoup, .env, and Gmail SMTP
-Modular code & secure automation
-Demo: Scrapes from BooksToScrape
-🧰 Tech I Use
-Python, Selenium, Playwright, BeautifulSoup
-Zapier, Make, GPT-4 API, Supabase, Google APIs
-Git, VS Code, GitHub, Linux
-🌍 Connect With Me
-🔗 Upwork Profile
-💼 LinkedIn
-🧪 GitHub: ekrem5995
-⚡ Goals for 2025
-📈 Build 5+ automation tools
-💵 Earn $10K+ from freelancing
-🚀 Help small businesses automate boring tasks
+---
+
+### 🧰 Recent Project: [📦 Price Notifier Bot](https://github.com/ekrem5995/price-notifier-bot)
+
+A Python bot that scrapes product prices and sends real-time email alerts.
+
+**Built with:**  
+`requests`, `BeautifulSoup`, `.env`, Gmail SMTP  
+
+**Demo site:** Scrapes from [BooksToScrape](http://books.toscrape.com)  
+**Features:**  
+- Modular structure  
+- Clean and secure automation  
+- Real-time email notifications  
+
+---
+
+### 🛠️ Tech Stack
+
+- Python, Selenium, Playwright  
+- BeautifulSoup, GPT-4 API  
+- Zapier, Make, Supabase, Google APIs  
+- GitHub, VS Code, Linux  
+
+---
+
+### 🌐 Connect With Me
+
+- [🔗 Upwork](https://www.upwork.com/freelancers/~012e1bd7ab9b6e85db)  
+- [💼 LinkedIn](https://www.linkedin.com/in/ekrem-b-kef-87320231a/)  
+- 🧑‍💻 GitHub: `ekrem5995`
 
 <!--
 **ekrem5995/ekrem5995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
